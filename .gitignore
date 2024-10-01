@@ -1,0 +1,7 @@
+.idea/
+venv/
+temp/
+.env
+__pycache__/
+.mypy_cache
+migrations/
